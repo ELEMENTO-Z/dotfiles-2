@@ -94,10 +94,7 @@ Please read [this](https://crispgm.com/page/the-fascinating-arch-linux-rice.html
     sudo apt install libxext-dev libxcb1-dev libxcb-damage0-dev libxcb-xfixes0-dev libxcb-shape0-dev libxcb-render-util0-dev libxcb-render0-dev libxcb-randr0-dev libxcb-composite0-dev libxcb-image0-dev libxcb-present-dev libxcb-xinerama0-dev libxcb-glx0-dev libpixman-1-dev libdbus-1-dev libconfig-dev libgl1-mesa-dev  libpcre2-dev  libevdev-dev uthash-dev libev-dev libx11-xcb-dev
     ```
   - ```bash
-    git clone https://github.com/yshui/picom.git
-    ```
-  - ```bash
-    cd picom/
+    git clone https://github.com/yshui/picom.git && cd picom/
     ```
   - ```bash
     git submodule update --init --recursive
