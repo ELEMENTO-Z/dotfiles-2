@@ -10,7 +10,7 @@
 ##  
 ### :octocat: Hi there! Thanks for visiting! <img alt="Visits" align="right" src="https://badges.pufler.dev/visits/owl4ce/dotfiles?style=flat-square&label=&color=success&logo=GitHub&logoColor=white&labelColor=373e4d"/>
 
-<a href="https://youtu.be/BrivcfEEAqs"><img src="https://i.ibb.co/8KfnHNp/thumbs-preview.gif" alt="thumbs.preview" align="right" width="400px"></a>
+<a href="https://youtu.be/BrivcfEEAqs"><img src="https://i.ibb.co/4SF3qbg/thumbs-preview.gif" alt="thumbs.preview" align="right" width="400px"></a>
 
 This is my personal configuration for my favorite openbox window manager and some applications too.
 
@@ -40,8 +40,6 @@ Here are some details about my setup:
   - [Music controller](./.scripts/music-controller) - [MPD/Spotify](https://github.com/owl4ce/dotfiles/issues/7)
   - [MPD track change detector](./.ncmpcpp/scripts/track-change-detector)
 - **New Icons**: [Gladient](https://play.google.com/store/apps/details?id=com.maxghani.gladient&hl=en) ( **©** )
-- **New Wallpapers** (can be [added](./.wallpaper/) by yourself)
-- **Major Changes**: Reconfigure all files
 
 ## :rice_scene:  Setup
 This is how to install this dotfiles for openbox automated setup.
