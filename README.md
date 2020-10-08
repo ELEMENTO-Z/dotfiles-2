@@ -30,7 +30,7 @@ Here are some details about my setup:
 - **Text Editor**                  : [Geany](https://www.geany.org/), [nano](https://www.nano-editor.org/), [vim](https://www.vim.org/)
 
 ## :gift: Changelogs
-<img src="https://i.ibb.co/grQBY3Y/Rike-Koi-owl4ce.png" alt="RikeKoi.owl4ce" align="right" width="400px">
+<img src="https://i.ibb.co/8Xv8Hyg/2020-10-08-143824-1366x768-scrot.png" alt="reverse-urxvt-bw.owl4ce" align="right" width="400px">
 
 - **UI Enlargement**: Fonts, etc. - [See gallery](https://github.com/owl4ce/dotfiles/wiki/Gallery)
 - **GTK+ Theme**: Google-chrome / Chromium - [See tip](#user-configuration)
@@ -43,11 +43,6 @@ Here are some details about my setup:
 - **Ncmpcpp**: New looks
 - **SLiM**: New looks
 - **Major Changes**: Reconfigure all files
-
-<br>
-<br>
-<br>
-<br>
 
 ## :rice_scene:  Setup
 This is how to install this dotfiles for openbox automated setup.

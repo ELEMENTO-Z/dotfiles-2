@@ -53,6 +53,7 @@ our $SCHEMA = [
     
     {beg  => ["Theme Styling",                                                                      "$ENV{HOME}/.icons/gladient/themer.png"]},
     {item => ["urxvt -e ~/.config/openbox/visual-mode/wally",             "Change Wallpaper",       "$ENV{HOME}/.icons/gladient/wally.png"]},
+    {item => ["bash -c '~/.scripts/reverse-urxvt-bw'",                    "Reverse URxvt B/W",      "$ENV{HOME}/.icons/gladient/term.png"]},
     {sep  => undef},
     {item => ["urxvt -e ~/.config/openbox/visual-mode/obch",              "Change Button Style",    "$ENV{HOME}/.icons/gladient/obt-c.png"]},
     {item => ["bash -c '~/.config/openbox/visual-mode/obsw'",             "Switch Button L/R",      "$ENV{HOME}/.icons/gladient/obt-s.png"]},

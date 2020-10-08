@@ -1,3 +1,6 @@
+! DO NOT CHANGE THE ORDER
+! -----------------------
+
 ! URXVT APPEARANCE
 URxvt.font:                       xft:mplus nerd font mono:size=10
 URxvt.geometry:                   84x15
@@ -73,26 +76,39 @@ URxvt.urlButton:                  1
 #define white0                    #F9F9F9
 #define white1                    #FFFFFF
 
-*.foreground:                     white0
-*.background:                     black0
-*.cursorColor:                    white0
-!*fading:                          35
-!*fadeColor:                       black2
-
-*.color0:                         black2
 *.color1:                         red0
 *.color2:                         green0
 *.color3:                         yellow0
 *.color4:                         blue0
 *.color5:                         magenta0
 *.color6:                         cyan0
-*.color7:                         white0
 
-*.color8:                         black3
 *.color9:                         red1
 *.color10:                        green1
 *.color11:                        yellow1
 *.color12:                        blue1
 *.color13:                        magenta1
 *.color14:                        cyan1
+
+! FOR REVERSING ONLY (BLACK-WHITE)
+! see ~/.scripts/reverse-urxvt-bw
+! --------------------------------
+*.foreground:                     white0
+*.background:                     black0
+*.cursorColor:                    white0
+
+*.color0:                         black2
+*.color7:                         white0
+
+*.color8:                         black3
 *.color15:                        white1
+
+!*.foreground:                     black0
+!*.background:                     white0
+!*.cursorColor:                    black0
+
+!*.color0:                         white0
+!*.color7:                         black2
+
+!*.color8:                         white1
+!*.color15:                        black3
