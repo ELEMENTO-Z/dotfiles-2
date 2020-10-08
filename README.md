@@ -36,12 +36,11 @@ Here are some details about my setup:
 - **GTK+ Theme**: Google-chrome / Chromium - [See tip](#user-configuration)
 - **New Scripts**:
   - [Openbox button style changer](./.config/openbox/visual-mode/obch) - [See buttons](./.themes/Buttons)
+  - [Reverse URxvt Black/White](./.scripts/reverse-urxvt-bw) - [See commit](https://github.com/owl4ce/dotfiles/commit/172c3e7c6a6a66683d1fa7a6a13398f6cdd4cb14)
   - [Music controller](./.scripts/music-controller) - [MPD/Spotify](https://github.com/owl4ce/dotfiles/issues/7)
   - [MPD track change detector](./.ncmpcpp/scripts/track-change-detector)
 - **New Icons**: [Gladient](https://play.google.com/store/apps/details?id=com.maxghani.gladient&hl=en) ( **©** )
 - **New Wallpapers** (can be [added](./.wallpaper/) by yourself)
-- **Ncmpcpp**: New looks
-- **SLiM**: New looks
 - **Major Changes**: Reconfigure all files
 
 ## :rice_scene:  Setup
