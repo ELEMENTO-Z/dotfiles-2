@@ -10,7 +10,7 @@
 ##  
 ### :octocat: Hi there! Thanks for visiting! <img alt="Visits" align="right" src="https://badges.pufler.dev/visits/owl4ce/dotfiles?style=flat-square&label=&color=success&logo=GitHub&logoColor=white&labelColor=373e4d"/>
 
-<a href="https://youtu.be/BrivcfEEAqs"><img src="https://i.ibb.co/TLQpJZ6/thumbs.gif" alt="thumbnail" align="right" width="400px"></a>
+<a href="https://youtu.be/BrivcfEEAqs"><img src="https://i.ibb.co/TLQpJZ6/thumbs.gif" alt="thumbs" align="right" width="400px"></a>
 
 This is my personal configuration for my favorite openbox window manager and some applications too.
 
@@ -30,7 +30,7 @@ Here are some details about my setup:
 - **Text Editor**                  : [Geany](https://www.geany.org/), [nano](https://www.nano-editor.org/), [vim](https://www.vim.org/)
 
 ## :gift: Changelogs
-<img src="https://i.ibb.co/8Xv8Hyg/2020-10-08-143824-1366x768-scrot.png" alt="reverse-urxvt-bw.owl4ce" align="right" width="400px">
+<img src="https://i.ibb.co/SJ99QL8/thumbs-reverse-urxvt-wb.gif" alt="thumbs.reverse-urxvt-bw" align="right" width="400px">
 
 - **UI Enlargement**: Fonts, etc. - [See gallery](https://github.com/owl4ce/dotfiles/wiki/Gallery)
 - **GTK+ Theme**: Google-chrome / Chromium - [See tip](#user-configuration)
