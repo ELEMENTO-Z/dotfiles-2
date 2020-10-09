@@ -232,6 +232,9 @@ The [Others](./Others/) folder contains slim themes. SLiM themes read [this](./O
   
   [Dribbblish - Horizon](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish#horizon)
   
+- **Battery Indicator** \
+  Because on the tint2 panel I turned off the battery status. Alternatively, install xfce4-power-manager and turn it on *~/.config/openbox/autostart* then enable system tray icon in xfce4-power-manager-settings.
+  
 - **Dunst Action: Default Web Browser (`middle click`)** \
   `~/.config/dunst/dunstrc-left` \
   `~/.config/dunst/dunstrc-right` \
