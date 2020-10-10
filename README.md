@@ -372,6 +372,7 @@ It's easy, put `album|cover|folder|artwork|front.jp?g|png|gif|bmp` into folder w
 - [Muktazam Hasbi Ashidiqi](https://github.com/reorr)
 - [Ghani Rafif](https://github.com/ekickx)
 - [Aditya Shakya](https://github.com/adi1090x)
+- [Stark](https://github.com/stark) - [Color-Scripts](https://github.com/stark/Color-Scripts)
 - [Ekaunt](https://github.com/ekaunt) - [Better promptmenu](https://github.com/owl4ce/dotfiles/pull/2)
 - [HopeBaron](https://github.com/HopeBaron) - [Termite config](https://github.com/owl4ce/dotfiles/pull/4)
 - [Themix-Project](https://github.com/themix-project) - [Oomox](https://github.com/themix-project/oomox)
