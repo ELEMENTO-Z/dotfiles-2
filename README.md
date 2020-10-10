@@ -268,7 +268,7 @@ The [Others](./Others/) folder contains slim themes. SLiM themes read [this](./O
   - `brightnessctl`
   - *others if needed*
   ```bash
-  sudo chmod u+s /usr/{bin,sbin}/{poweroff,reboot,brightnessctl}
+  sudo chmod u+s $(where {poweroff,reboot,brightnessctl})
   ```
   > For `brightnessctl` I recommend [adding users to the group](https://wiki.archlinux.org/index.php/Users_and_groups#Group_management) `video`.
   
