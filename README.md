@@ -329,7 +329,7 @@ The [Others](./Others/) folder contains slim themes. SLiM themes read [this](./O
   ...
   ```
 Arch|Artix|Bedrock|Gentoo|HNE|Openbox|Ubuntu|Void
-|--------|--------|--------|--------|--------|--------|--------|
+|--------|--------|--------|--------|--------|--------|--------|--------|
 ![Arch](./.config/neofetch/arch.png)|![Artix](./.config/neofetch/artix.png)|![Bedrock](./.config/neofetch/bedrock.png)|![Gentoo](./.config/neofetch/gentoo.png)|![HNE](./.config/neofetch/hne.png)|![Openbox](./.config/neofetch/ob.png)|![Ubuntu](./.config/neofetch/ubuntu.png)|![Void](./.config/neofetch/void.png)
   
 - **MPD Music Directory** \
