@@ -3,7 +3,7 @@
 <p align="center">
 <a href="#rice_scene--setup"><img width="120px" style="padding: 0 10px;" src="https://i.ibb.co/b5DYRxb/setup.png"></a>
 <a href="https://github.com/owl4ce/dotfiles/wiki/Keybinds"><img width="120px" style="padding: 0 10px;" src="https://i.ibb.co/VVc5S9d/keybinds.png"></a>
-<a href="https://github.com/owl4ce/dotfiles/wiki/Gallery"><img width="120px" style="padding: 0 10px;" src="https://i.ibb.co/C1sdMw9/gallery.png"></a>
+<a href="https://www.deviantart.com/owl4ce/gallery/75407376/joyful-desktop-screenshots"><img width="120px" style="padding: 0 10px;" src="https://i.ibb.co/C1sdMw9/gallery.png"></a>
 <a href="#memo--notes"><img width="120px" style="padding: 0 10px;" src="https://i.ibb.co/g75Z25g/notes.png"></a>
 </p>
 
@@ -32,7 +32,7 @@ Here are some details about my setup:
 ## :gift: Changelogs
 <img src="https://i.ibb.co/SJ99QL8/thumbs-reverse-urxvt-wb.gif" alt="thumbs.reverse-urxvt-bw" align="right" width="400px">
 
-- **UI Enlargement**: Fonts, etc. - [See gallery](https://github.com/owl4ce/dotfiles/wiki/Gallery)
+- **UI Enlargement**: Fonts, etc. - [See gallery](https://www.deviantart.com/owl4ce/gallery/75407376/joyful-desktop-screenshots)
 - **GTK+ Theme**: Google-chrome / Chromium - [See tip](#user-configuration)
 - **New Scripts**:
   - [Openbox button style changer](./.config/openbox/visual-mode/obch) - [See buttons](./.themes/Buttons)
